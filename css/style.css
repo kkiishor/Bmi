@@ -36,3 +36,9 @@
   border-bottom: 1px solid black;
   width: 50%;
 }
+
+#container input[type="button"]{
+  display: inline-block;
+  padding: 4px 8px;
+}
+
